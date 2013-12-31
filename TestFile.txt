@@ -1,3 +1,4 @@
 Step 1 - Create REPO
 Step 2 - Test a commit message!
 Step 3 - Test a commit message!
+Step 4 - Test a commit message!
