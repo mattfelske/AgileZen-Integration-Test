@@ -1,1 +1,2 @@
 Step 1 - Create REPO
+Step 2 - Test a commit message!
